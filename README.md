@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Software Automation tester<br>⚡ Solved 175+ Leetcode problems<br>💬 Enjoy working in backend | Java |SpringBoot | Hibernate<br>🤝 I’m looking for Backend development roles<br>🌱 I’m currently learning JavaScript
+🔭 I’m currently working as a Software Automation tester<br> 💬 Ask me about Java, Selenium, TestNG, Maven.... <br>⚡ Solved 200+ Leetcode problems<br>🤝 I’m looking for SDET/ Sr.QA roles<br>🌱 I’m currently learning RestAssured framework
 
 
 ## 🌐 Socials:
